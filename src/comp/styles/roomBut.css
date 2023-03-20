@@ -1,0 +1,7 @@
+.roomBut{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    border: 2px solid black;
+    margin: 10px;
+}

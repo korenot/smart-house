@@ -1,0 +1,54 @@
+#names{
+    margin-left: 20px;
+    text-align: left;
+    font-weight: 700;
+    font-size: large;
+    position: absolute;
+    left: 0px;
+}
+#addProduct{
+    height:30px;
+    width:100px;
+    top:100px;
+    position: absolute;
+    right: 0px;
+    margin-right: 20px;
+}
+#addScreen{
+    padding-top: 10px;
+    height: 40px;
+    width: 200px;
+    position: absolute;
+    right: 0px;
+    margin-right: 20px;
+    top: 140px;
+    border: 1px solid black;
+}
+button{
+    background-color: cornflowerblue;
+    border: 1px solid blue;
+    border-radius: 20px;
+}
+select{
+    margin-right: 10px;
+    text-align: center;
+    height: 30px;
+    width: 140px;
+    font-weight: 600;
+    border-radius: 20px;
+  
+}
+#allProducts{
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    left: 400px;
+    height: 200px;
+    width: 200px;
+}
+.prod{
+    margin:5px;
+    width:60px;
+    height:25px;
+    border: 1px solid black;
+}
